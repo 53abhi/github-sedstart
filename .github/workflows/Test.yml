@@ -1,4 +1,4 @@
-name: Sedstart local
+name: Sedstart1
 
 on:
   workflow_dispatch:
